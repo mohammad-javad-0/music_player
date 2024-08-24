@@ -13,7 +13,7 @@ This is a simple music player built using PyQt6, Pygame, and Mutagen. The applic
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mohammad-javad-0/pyqt6-music-player.git
+   git clone https://github.com/mohammad-javad-0/music_player.git
    cd pyqt6-music-player
    ```
 
